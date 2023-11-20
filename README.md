@@ -112,6 +112,11 @@ The bio glass samples underwent a two-step thermal heating regime at deduced tem
 2. **Size and Shape of Solid:**
    Raw materials (oxide constituents) are mixed, melted in a platinum crucible, poured into a steel mold, and shaped according to the size and form needed for specific diseases and damaged body parts.
 
+![image](https://github.com/incognion/end/assets/97580124/28034256-8c2f-466c-a36b-1d656da5d84a)
+![image](https://github.com/incognion/end/assets/97580124/0cf8455a-ece6-4d58-8bef-30186dc88c21)
+![image](https://github.com/incognion/end/assets/97580124/7bea1ee5-2551-46b4-a907-e7d6e241532f)
+![image](https://github.com/incognion/end/assets/97580124/6db43d18-e9be-47fa-94b8-822580f5808e)
+
 ---
 
 **Bioactive Composite Materials: Ceramic-Metal Matrix Composite and Polymer Composite**
@@ -171,7 +176,9 @@ The composition of the bioactive glass is 45% SiO2, 24.5% CaO, 24.5% Na2O, and 6
 5. Immersing the preform into molten glass at 1450°C.
 6. Annealing the glass-impregnated preform at 575°C for 4 hours and furnace cooling it to room temperature.
 
----
+![image](https://github.com/incognion/end/assets/97580124/0721f20c-02d3-4328-a2cf-8d0f7efeba55)
+![image](https://github.com/incognion/end/assets/97580124/e16e29f8-f20d-451c-aa75-dd0142c0901f)
+
 
 The main advantage of inorganic scaffolds made of hydroxyapatite (HA), bioactive glass, or other bioceramics is their high biocompatibility. However, they suffer from low mechanical strength and high brittleness. One approach being investigated to improve the mechanical properties of these brittle scaffolds is to coat them with polymer layers. This aims to fill existing cracks in the bioceramic structure with a polymer phase. The hypothesis is that polymer filaments will bridge cracks during fracture, thus increasing the scaffold toughness, similar to how collagen fibers enhance the fracture toughness of bone.
 
@@ -211,7 +218,8 @@ Glass is converted to glass ceramics through a heat treatment process, resulting
 4. Add a small amount (0.5 percent) of CaF2 for fully densification and heat treatment at 830°C.
 5. Oxyfluoroapatite and wollastonite successfully precipitate, providing pore-free high density and homogeneous A/W glass ceramics.
 
----
+![image](https://github.com/incognion/end/assets/97580124/f56dbecb-94af-4dc7-9d99-a8ca7b124b05)
+
 
 **Properties of A/W Glass Ceramics:**
 - Density: 3.07 g/cm³
@@ -363,5 +371,7 @@ Tetragonal stabilized zirconia powder as a bio-ceramic is produced using the sol
 In brief, a 70% propanol solution of zirconium isopropoxide is slowly added drop-wise to a mixture of 135 ml of n-propanol and 8 ml of distilled H2O in a 500 ml round-bottom flask. The suspension is refluxed at 70°C for 12 hours, and the solid formed is dried in an electrical air oven at 105°C overnight.
 
 The hydrous zirconia obtained is ground, sieved, and used for the next procedure concerning various treatments in a basic medium. For digestion (cell repair) treatment in a basic medium, 6 g samples of hydrous zirconia are placed in round-bottom flasks and refluxed at 100°C for 9 hours in the presence of a 60 ml 5M NaOH solution. The obtained solids are filtered, washed, and dried in an oven at 105°C. After drying, some samples are treated with NaOH, heat-treated at 150°C for 2 hours, and then at 700°C for 3 hours in an electric furnace under an air atmosphere to obtain tetragonal stabilized zirconia. The structure of tetragonal stabilized zirconia is investigated by FTIR, XRD, and SEM.
+
+![image](https://github.com/incognion/end/assets/97580124/437aae61-c63a-4272-a1fd-6bec64fb0a18)
 
 ---
