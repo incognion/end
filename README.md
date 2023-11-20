@@ -1,53 +1,6 @@
 
 
 ---
-
-**Use of Zirconia in Surgical Implants**
-
-While alumina exhibits outstanding bioactivity and wear resistance, it shows moderate flexural strength and toughness. To address this issue, ZrO2 is now commonly used in surgical implants. Zirconia is exceptionally inert in the physiological environment, providing a bio-ceramic advantage over alumina due to its higher fracture toughness, flexural strength, and lower Young's modulus.
-
-Zirconia is considered a promising material for prosthodontics, thanks to its high strength, hardness, excellent wear resistance, and corrosion resistance. However, the development of zirconia bio-ceramics faces uncertainty regarding long-term stability.
-
-Zirconia ceramics, used for surgical implants, come in two types: Teragonal Zirconia stabilized with yttria and Magnesium oxide-stabilized Zirconia. Both types are suitable for load-bearing hip replacements. A drawback is the reduction in strength over time in physiological fluid, wear properties, and potential radioactivity, as testing in simulated body fluid and animals has shown a slight decrease in fracture strength and toughness.
-
-In total joint replacement, the wear and friction wettability of Zirconia ceramics are similar to alumina. The only difference lies in their surface properties, with alumina ceramics having a better surface than zirconia. Wear resistance is evaluated through disc or ring-type tests, indicating that the wear rate of Zirconia/Zirconia coupling is 5000 times that of alumina-alumina coupling in terms of material flexibility and mechanical flexibility.
-
-Zirconia is considered radioactive due to better radiation alpha and gamma, making it suitable for funeral head prostheses. Gamma radiation is not a major concern; however, alpha radiation is used for intended surgical implants because of its high ionization capacity, which can destroy hard and soft tissue. Research is ongoing to check the long-term effects of gamma radiation/emission as an implant material.
-
-**Preparation of Tetragonal Stabilized Zirconia**
-
-Tetragonal stabilized zirconia powder as a bio-ceramic is produced using the sol-gel method, starting with a proper solution and stabilizing it in the tetragonal phase through digestion treatment with 5M NaOH, followed by heat treatment at 700°C (tetragonal stabilized zirconia).
-
-In brief, a 70% propanol solution of zirconium isopropoxide is slowly added drop-wise to a mixture of 135 ml of n-propanol and 8 ml of distilled H2O in a 500 ml round-bottom flask. The suspension is refluxed at 70°C for 12 hours, and the solid formed is dried in an electrical air oven at 105°C overnight.
-
-The hydrous zirconia obtained is ground, sieved, and used for the next procedure concerning various treatments in a basic medium. For digestion (cell repair) treatment in a basic medium, 6 g samples of hydrous zirconia are placed in round-bottom flasks and refluxed at 100°C for 9 hours in the presence of a 60 ml 5M NaOH solution. The obtained solids are filtered, washed, and dried in an oven at 105°C. After drying, some samples are treated with NaOH, heat-treated at 150°C for 2 hours, and then at 700°C for 3 hours in an electric furnace under an air atmosphere to obtain tetragonal stabilized zirconia. The structure of tetragonal stabilized zirconia is investigated by FTIR, XRD, and SEM.
-
---- 
-**Preparation of Bio-ceramics and Characterization of Bioactivity**
-
-The bioactive glass 45S5 (Hench glass), with a composition of 45% SiO2, 24.5% Na2O, 24.5% CaO, and 6% P2O5 (wt%), was prepared by substituting Li2O, K2O, ZnO, MgO, B2O3, and other oxides using the conventional melting process in an electric globar furnace at 1400±10°C. Controlled crystallization was carried out to convert the bio glasses into their corresponding bio glass ceramics.
-
-The bioactivity of the prepared glass and glass ceramics was tested using FTIR reflection spectrometry, XRD, and SEM before and after immersion in simulated body fluid for different periods at 37°C with a pH of 7.4.
-
-**Bio Glass Preparation**
-
-The bioactive glass 45S5 (Hench glass) was prepared by substituting Li2O, K2O, ZnO, MgO, and B2O3. For the preparation of 100 grams of bioactive glass, fine-grained quartz served as the silica source, and sodium carbonate (Na2CO3), calcium carbonate (CaCO3), ammonium dihydrogen orthophosphate (NH4H2PO4), aluminum oxide (Al2O3), boric acid (H3BO3), potassium carbonate (K2CO3), zinc oxide (ZnO), and magnesium carbonate (MgCO3) were used as sources of sodium oxide (Na2O), calcium oxide (CaO), phosphorus pentoxide (P2O5), boron trioxide (B2O3), potassium oxide (K2O), zinc oxide (ZnO), and magnesium oxide (MgO), respectively.
-
-Bioactive glasses were prepared using the conventional method. Materials were weighed using an electronic balance, mixed homogeneously with an agate pestle mortar, and melted in platinum crucibles at 1400±10°C for 4 hours in a globar furnace. After melting, the glass was poured onto a steel sheet, cooled to room temperature, crushed, and remelted for an additional two hours to ensure homogeneity. The glass was then poured onto a hot rectangular mold on a steel sheet, annealed at 480°C to remove thermal stresses, and cooled to room temperature with a controlled rate of cooling. Annealed glass samples were preserved for bioactivity and surface behavior analysis using XRD, FTIR, and SEM spectrometry.
-
-**Preparation of Glass to Glass Ceramic Samples (Heat Treatment Process)**
-
-The bio glass samples underwent a two-step thermal heating regime at deduced temperatures. Each bio glass sample was slowly heated to the first nucleation temperature to form sufficient nuclei sites. After holding for 4 hours, it was further heated to reach the second chosen crystal growth temperature for perfect crystal growth. After a second hold for 6 hours, the specimen was left to cool inside the muffle furnace to room temperature at a rate of 20°C per hour.
-
-**Characterization Features of Bio Ceramics (Glass & Glass Ceramics)**
-
-1. **Chemical Composition:**
-   The chemical composition of 45S5 Glass is 45% SiO2, 24.5% Na2O, 24.5% CaO, and 6% P2O5, all in wt%. Silica (SiO2) is a primary compositional variable affecting the rate of bonding and bioactivity. In animal experiments, it was observed that if silica varies from 40-45%, the implant bonds to bone and soft tissue. Na2O and CaO content variations have little effect on bioactivity, and P2O5 content varies from 2-6 wt%, influencing bioactivity. Additional compositions like Al2O3, ZrO2, and TiO2 (2-3%) can replace 45% SiO2 to 42% SiO2 to assess implant bioactivity.
-
-2. **Size and Shape of Solid:**
-   Raw materials (oxide constituents) are mixed, melted in a platinum crucible, poured into a steel mold, and shaped according to the size and form needed for specific diseases and damaged body parts.
-
----
 **Definition and Scope of Bio-Ceramic Materials:**
 
 Any substance that interacts with the biological system and is used for medical or clinical applications is referred to as biomaterials. Among these, bio-ceramics, bio-polymers, bio-composites, and bio-metals play a significant role. Current research efforts are focused on successfully applying biomaterials in various biomedical and medical contexts, especially the use of bio-ceramics in medical, dental, and orthopedic fields. The applications of bio-ceramics have significantly increased in the past decades, contributing to the improvement of the quality of human life.
@@ -132,6 +85,32 @@ In summary, bio-ceramics play a pivotal role in advancing medical and clinical a
 **Problems Identified from Tissue Responses:**
 
 After the implantation of bio-ceramic materials, various issues can arise based on the responses from these four types of tissues.
+
+--- 
+
+**Preparation of Bio-ceramics and Characterization of Bioactivity**
+
+The bioactive glass 45S5 (Hench glass), with a composition of 45% SiO2, 24.5% Na2O, 24.5% CaO, and 6% P2O5 (wt%), was prepared by substituting Li2O, K2O, ZnO, MgO, B2O3, and other oxides using the conventional melting process in an electric globar furnace at 1400±10°C. Controlled crystallization was carried out to convert the bio glasses into their corresponding bio glass ceramics.
+
+The bioactivity of the prepared glass and glass ceramics was tested using FTIR reflection spectrometry, XRD, and SEM before and after immersion in simulated body fluid for different periods at 37°C with a pH of 7.4.
+
+**Bio Glass Preparation**
+
+The bioactive glass 45S5 (Hench glass) was prepared by substituting Li2O, K2O, ZnO, MgO, and B2O3. For the preparation of 100 grams of bioactive glass, fine-grained quartz served as the silica source, and sodium carbonate (Na2CO3), calcium carbonate (CaCO3), ammonium dihydrogen orthophosphate (NH4H2PO4), aluminum oxide (Al2O3), boric acid (H3BO3), potassium carbonate (K2CO3), zinc oxide (ZnO), and magnesium carbonate (MgCO3) were used as sources of sodium oxide (Na2O), calcium oxide (CaO), phosphorus pentoxide (P2O5), boron trioxide (B2O3), potassium oxide (K2O), zinc oxide (ZnO), and magnesium oxide (MgO), respectively.
+
+Bioactive glasses were prepared using the conventional method. Materials were weighed using an electronic balance, mixed homogeneously with an agate pestle mortar, and melted in platinum crucibles at 1400±10°C for 4 hours in a globar furnace. After melting, the glass was poured onto a steel sheet, cooled to room temperature, crushed, and remelted for an additional two hours to ensure homogeneity. The glass was then poured onto a hot rectangular mold on a steel sheet, annealed at 480°C to remove thermal stresses, and cooled to room temperature with a controlled rate of cooling. Annealed glass samples were preserved for bioactivity and surface behavior analysis using XRD, FTIR, and SEM spectrometry.
+
+**Preparation of Glass to Glass Ceramic Samples (Heat Treatment Process)**
+
+The bio glass samples underwent a two-step thermal heating regime at deduced temperatures. Each bio glass sample was slowly heated to the first nucleation temperature to form sufficient nuclei sites. After holding for 4 hours, it was further heated to reach the second chosen crystal growth temperature for perfect crystal growth. After a second hold for 6 hours, the specimen was left to cool inside the muffle furnace to room temperature at a rate of 20°C per hour.
+
+**Characterization Features of Bio Ceramics (Glass & Glass Ceramics)**
+
+1. **Chemical Composition:**
+   The chemical composition of 45S5 Glass is 45% SiO2, 24.5% Na2O, 24.5% CaO, and 6% P2O5, all in wt%. Silica (SiO2) is a primary compositional variable affecting the rate of bonding and bioactivity. In animal experiments, it was observed that if silica varies from 40-45%, the implant bonds to bone and soft tissue. Na2O and CaO content variations have little effect on bioactivity, and P2O5 content varies from 2-6 wt%, influencing bioactivity. Additional compositions like Al2O3, ZrO2, and TiO2 (2-3%) can replace 45% SiO2 to 42% SiO2 to assess implant bioactivity.
+
+2. **Size and Shape of Solid:**
+   Raw materials (oxide constituents) are mixed, melted in a platinum crucible, poured into a steel mold, and shaped according to the size and form needed for specific diseases and damaged body parts.
 
 ---
 
@@ -312,16 +291,33 @@ Calcium phosphate bio-ceramics find diverse applications:
 
 ---
 
-(a) Bone augmentation after extraction of the left central incisor tooth. (b) Coated dental implant. (c) Augmentos 3D Scaffold, a bone substitute material for filling or reconstructing non-load-bearing bone defects or for filling bone defects sufficiently stabilized by appropriate means. This appears to be the first 3D-printed CaP cement. (d) Self-setting cement granules consisting of a-TCP, CaHPO4, CaCO3, and HAP. (e) Nano-Hydroxyapatite Toothpaste. (f) Osteovit xenograft bone substitute. (g) DePuy Synthes CORAIL cementless hip prosthesis for total hip arthroplasty. (h) Material bone graft substitute composed of demineralized bone matrix (DBM) from human donors in a sodium hyaluronate carrier.
+**Alumina Used in Surgical Implants:**
 
-**Alumina as Ceramic Implant Material:**
-Alumina is utilized as a ceramics implant material due to its high density (99.5 percent), making it suitable for load-bearing applications in hips and dentistry. It possesses the following characteristics:
+Alumina ceramics have seen significant use in surgical implants over the past decades, contributing to the advancement of medical ceramics. The utilization of bioceramics has grown considerably for applications involving living tissue.
 
-- Excellent corrosion resistance
-- Good biocompatibility
-- High wear resistance and strength
+**Characteristics of Bioceramics:**
+1. **Material Toxicity:**
+   - If the material is toxic, the surrounding tissue experiences deterioration, leading to biomaterials being unsuitable for use.
 
-Alumina biomaterials with a very fine grain size and sintering temperature ranging from 1600 to 1800 degrees Celsius depend on the properties of raw materials. A small amount of MgO, less than 5 percent, is used as a grain growth inhibitor to achieve a fine grain and a high-density sintered body. The strength and fracture toughness of alumina are functions of grain size and sintering material purity, with an average grain size of 4 micrometers and a purity of 99.7 percent. Commercially available alumina biomaterials aim to improve flexural and compressive strength.
+2. **Biological Inactivity:**
+   - Non-toxic materials, like alumina and zirconia, result in the formation of biologically inactive fibrous tissue capsules around the material. This inertness is observable under an optical microscope, showcasing direct opposition of bone to the material.
+
+3. **Bioactive Materials:**
+   - Non-toxic, biologically active materials foster the formation of interfacial bonds between the tissue and biomaterials, termed bioactive materials.
+
+4. **Resorbable Biomaterials:**
+   - Non-toxic materials that dissolve in surrounding tissue, with the dissolved material being replaced. These are known as resorbable biomaterials.
+
+**Examples of Inert Ceramics:**
+- Alumina and zirconia bioceramics exhibit no chemical changes during long-term exposure to physiological environments. In some cases, there may be chemical or mechanical degradation, but the concentration of degradation is controlled by the body's natural regulatory mechanisms.
+
+**Inert Ceramics for Surgical Implants:**
+- The first among inert ceramics used for surgical implants is alumina. Alumina, with its high density (99.5 percent), is employed in load-bearing hip and dental applications due to its excellent corrosion resistance, good biocompatibility, high wear resistance, and strength.
+
+**Alumina as an Implant Material:**
+- Alumina biomaterials, with a very fine grain size and sintering temperature ranging from 1600 to 1800 degrees Celsius, depend on the properties of raw materials. A small amount of MgO (less than 5 percent) is used as a grain growth inhibitor to achieve a fine grain and high-density sintered body.
+
+- The strength and fracture toughness of alumina are influenced by grain size and sintering material purity. An average grain size of 4 micrometers and purity of 99.7 percent contribute to improved flexural strength and compressive strength. Commercially available alumina biomaterials meet these specifications.
 
 ---
 
@@ -345,3 +341,27 @@ The failure of alumina implants within 30 years is less than 200 MPa. Aging and 
 1. Alumina is used in total hip and knee prostheses due to its inertness, good biocompatibility, and high wear resistance.
 2. In femoral heads, alumina sockets exhibit less wear and friction compared to other materials.
 3. Alumina has been tested in ankle joints, elbows, shoulders, wrists, fingers, and dental implants, showing superior performance to other materials.
+
+---
+
+**Use of Zirconia in Surgical Implants**
+
+While alumina exhibits outstanding bioactivity and wear resistance, it shows moderate flexural strength and toughness. To address this issue, ZrO2 is now commonly used in surgical implants. Zirconia is exceptionally inert in the physiological environment, providing a bio-ceramic advantage over alumina due to its higher fracture toughness, flexural strength, and lower Young's modulus.
+
+Zirconia is considered a promising material for prosthodontics, thanks to its high strength, hardness, excellent wear resistance, and corrosion resistance. However, the development of zirconia bio-ceramics faces uncertainty regarding long-term stability.
+
+Zirconia ceramics, used for surgical implants, come in two types: Teragonal Zirconia stabilized with yttria and Magnesium oxide-stabilized Zirconia. Both types are suitable for load-bearing hip replacements. A drawback is the reduction in strength over time in physiological fluid, wear properties, and potential radioactivity, as testing in simulated body fluid and animals has shown a slight decrease in fracture strength and toughness.
+
+In total joint replacement, the wear and friction wettability of Zirconia ceramics are similar to alumina. The only difference lies in their surface properties, with alumina ceramics having a better surface than zirconia. Wear resistance is evaluated through disc or ring-type tests, indicating that the wear rate of Zirconia/Zirconia coupling is 5000 times that of alumina-alumina coupling in terms of material flexibility and mechanical flexibility.
+
+Zirconia is considered radioactive due to better radiation alpha and gamma, making it suitable for funeral head prostheses. Gamma radiation is not a major concern; however, alpha radiation is used for intended surgical implants because of its high ionization capacity, which can destroy hard and soft tissue. Research is ongoing to check the long-term effects of gamma radiation/emission as an implant material.
+
+**Preparation of Tetragonal Stabilized Zirconia**
+
+Tetragonal stabilized zirconia powder as a bio-ceramic is produced using the sol-gel method, starting with a proper solution and stabilizing it in the tetragonal phase through digestion treatment with 5M NaOH, followed by heat treatment at 700°C (tetragonal stabilized zirconia).
+
+In brief, a 70% propanol solution of zirconium isopropoxide is slowly added drop-wise to a mixture of 135 ml of n-propanol and 8 ml of distilled H2O in a 500 ml round-bottom flask. The suspension is refluxed at 70°C for 12 hours, and the solid formed is dried in an electrical air oven at 105°C overnight.
+
+The hydrous zirconia obtained is ground, sieved, and used for the next procedure concerning various treatments in a basic medium. For digestion (cell repair) treatment in a basic medium, 6 g samples of hydrous zirconia are placed in round-bottom flasks and refluxed at 100°C for 9 hours in the presence of a 60 ml 5M NaOH solution. The obtained solids are filtered, washed, and dried in an oven at 105°C. After drying, some samples are treated with NaOH, heat-treated at 150°C for 2 hours, and then at 700°C for 3 hours in an electric furnace under an air atmosphere to obtain tetragonal stabilized zirconia. The structure of tetragonal stabilized zirconia is investigated by FTIR, XRD, and SEM.
+
+---
